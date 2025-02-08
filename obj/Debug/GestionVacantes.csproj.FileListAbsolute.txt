@@ -1,0 +1,11 @@
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\bin\Debug\GestionVacantes.exe.config
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\bin\Debug\GestionVacantes.exe
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\bin\Debug\GestionVacantes.pdb
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.csproj.AssemblyReference.cache
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.Form1.resources
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.Properties.Resources.resources
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.csproj.GenerateResource.cache
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.csproj.CoreCompileInputs.cache
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.exe
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.pdb
+C:\Users\fmeji\OneDrive\Documents\Proyectos\GestionVacantes\obj\Debug\GestionVacantes.Form2.resources
